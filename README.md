@@ -1,6 +1,6 @@
 # Wifi_Sensing
 
-I-DNA LAB
+I-DNA LAB in Kwangwoon Univ
 
 undergraduate research student
 
@@ -8,4 +8,6 @@ SEARCHING ABOUT
 
 WIFI SENSING , CSI ANALYSIS and so on .. 
 
-now, i learned about gnn -> stem gnn ... 0709.. fxking
+now, i learned about gnn -> stem gnn ...
+
+kl-divergence .. 
